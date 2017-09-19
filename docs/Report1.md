@@ -1,7 +1,9 @@
 # Milestone 1: Problem Identification and Ideas
 
 **Kyung Je Jo 20130799**
+
 **Chae-Ryn Chang 20150893**
+
 **John Joon Young Chung Audit**
 
 ### 1. What is the problem your team is trying to solve? (one sentence)
