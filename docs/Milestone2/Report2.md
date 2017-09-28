@@ -16,7 +16,7 @@ Minsu Kim, a freshman at KAIST, often relies on Naver’s kin and Stackoverflow 
 * Provide appropriate level of gold data based on the level of the course which the asked question is from
 * students will have higher accessibility to high-quality answers
 
-<img src="task1.jpg" alt="task1"/>
+<img src="images/task1.jpg" alt="task1"/>
 
 ### Task 2 - Make asking-answering communicative
 
@@ -28,7 +28,7 @@ Annie Chang, a freshman at KAIST, is having trouble with completing homework pro
 * The chatting session should not be ended prematurely without assuring that the user understood the answer. ex) The user could not understand the answer, but the one who answered escaped without a word after the session
 * The chatting session allows users to ask follow-up questions, so as to reduce wait-time between new questions. ex) the user is usually allowed to ask only one question per session, while he may have other closely related questions that could be answered by the same answerer
 
-<img src="task2.jpg" alt="task2"/>
+<img src="images/task2.jpg" alt="task2"/>
 
 ### Task 3
 
@@ -40,4 +40,4 @@ John Doe, who is CS undergraduate at KAIST, is taking chemistry 101 lecture, but
 * Assure fast question-answering with sufficient amount of people need to be in the system. ex) Come up with question right before exam, and need to get the answer quickly
 * Assure the user group can assure decent solution quality if their responses are aggregated. ex) See the answer in the piazza, but disappointed because nobody could clearly answer the question. 
 
-<img src="task3.jpg" alt="task3"/>
+<img src="images/task3.jpg" alt="task3"/>
