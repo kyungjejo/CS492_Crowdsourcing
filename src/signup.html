@@ -27,13 +27,13 @@
 
     <!-- SwiftyQ title header -->
     <header>
-      <div class="title text-center">
+      <div class="title text-center" style="padding-top:300px !important;">
         SwiftyQ
       </div>
     </header>
 
     <!-- Login form -->
-    <form class="login">
+    <form class="signup">
       <div class="form-group">
         <label>Email address</label>
         <input type="email" class="form-control form-control-lg title-lg" aria-describedby="emailHelp" placeholder="Enter email">
@@ -42,21 +42,31 @@
         <label for="exampleInputPassword1">Password</label>
         <input type="password" class="form-control form-control-lg title-lg" placeholder="Password">
       </div>
-      <div class="group"><button type="button" class="btn btn-outline-success btn-block btn-lg title-lg">Log In</button></div>
-      <div class="group"><small class="form-text text-muted text-center">Forgot your login details? <u class="sign-up-btn">Get help signing in.</u></small></div>
-     
-      <div class="row" style="margin-top:150px;">
-        <div class="col-5"><hr></div>
-        <div class="col-2 text-center">OR</div>
-        <div class="col-5"><hr></div>
+      <div class="form-group">
+        <label for="exampleInputPassword2">Confirm Password</label>
+        <input type="password" class="form-control form-control-lg title-lg" placeholder="Re-enter password">
       </div>
-      <div class="btn btn-block btn-social btn-facebook group" style="padding: 15px 0px; margin-bottom: 30px;">
-        <span style="top:12%;"><i class="fa fa-facebook fa-2x" style="top:50%"></i></span><div class="title-lg" style="margin-left: 60px;">Sign in with Facebook</div >
+       <div class="form-group">
+        <label for="Name">Name</label>
+        <input type="password" class="form-control form-control-lg title-lg" placeholder="Your name">
       </div>
-      <div class="btn btn-block btn-social btn-google group" style="padding: 15px 0px;">
-        <span style="top:12%;"><i class="fa fa-google fa-2x"></i></span><div class="title-lg" style="margin-left: 60px;">Sign in with Google</div >
+       <div class="form-group">
+        <label for="expertise">Expertise</label>
+        <input type="password" class="form-control form-control-lg title-lg" placeholder="Please select from below">
       </div>
 
+      <div class="dropdown">
+        <button class="btn btn-block btn-lg title-lg btn-outline-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Dropdown button
+        </button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <a class="dropdown-item" href="#">Something else here</a>
+        </div>
+      </div>
+      <div class="group"><button type="button" class="btn btn-success btn-block btn-lg title-lg">Sign up</button></div>
+     
     </form>
 
   </html>
